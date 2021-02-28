@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SwiperTestDemo</string>
+    <string name="database">std.db</string>
+    <string name="menu_main_item_phone_title">phone</string>
+    <string name="menu_main_item_chat_title">chat</string>
+    <string name="menu_main_item_scan_title">scan</string>
+    <string name="menu_main_item_explore_title">explore</string>
+    <string name="menu_main_item_wallet_title">wallet</string>
+    <string name="fragment_phone_text">Phone</string>
+    <string name="fragment_chat_text">Chat</string>
+    <string name="fragment_scan_text">Scan</string>
+    <string name="fragment_explore_text">Explore</string>
+    <string name="failed_loading_msg">Something went wrong &#8230;</string>
+    <string name="failed_network_msg">No internet connection &#8230;</string>
+    <string name="error_retry">Retry</string>
+    <string name="fragment_wallet_top_text">Wonderful World</string>
+</resources>
