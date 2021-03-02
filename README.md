@@ -7,12 +7,16 @@
 取材自以下資源
 --------
 koin           
-https://github.com/InsertKoinIO/koin 
+https://github.com/InsertKoinIO/koin                                                                                                                 
+
+肯力行網科技股份有限公司           
+https://www.cakeresume.com/companies/swiper-xone-media/jobs 
                                                                                                                 
 預覽
 --------
 <p align="left">
   <img src="https://i.imgur.com/az18sT9.png" width="230"/>
+  <img src="https://i.imgur.com/RvWXxG2.png" width="230"/>
 </p> 
 
 備註
