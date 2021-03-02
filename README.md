@@ -16,7 +16,7 @@ https://www.cakeresume.com/companies/swiper-xone-media/jobs
 --------
 <p align="left">
   <img src="https://i.imgur.com/az18sT9.png" width="230"/>
-  <img src="https://i.imgur.com/RvWXxG2.png" width="230"/>
+  <img src="https://i.imgur.com/RvWXxG2.png" width="430"/>
 </p> 
 
 備註
